@@ -1,4 +1,4 @@
-# Dashboard Project
+# Financial Dashboard
 
 ![Dashbord](https://nextjs.org/_next/image?url=%2Flearn%2Fdark%2Fdashboard.png&w=1920&q=75&dpl=dpl_BbSpPdzv9Yrsi74LnqWRCSDNSUNs)
 
