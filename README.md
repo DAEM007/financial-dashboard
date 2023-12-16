@@ -1,6 +1,6 @@
 # Dashboard Project
 
-[Dashbord](https://nextjs.org/_next/image?url=%2Flearn%2Fdark%2Fdashboard.png&w=1920&q=75&dpl=dpl_BbSpPdzv9Yrsi74LnqWRCSDNSUNs)
+![Dashbord](https://nextjs.org/_next/image?url=%2Flearn%2Fdark%2Fdashboard.png&w=1920&q=75&dpl=dpl_BbSpPdzv9Yrsi74LnqWRCSDNSUNs)
 
 > *The purpose of this project is to help strengthen my knowledge of Nextjs and refresh my knowledge of TypeScript. So in this project I would be building a functional fullstack dashboard.* 
 
