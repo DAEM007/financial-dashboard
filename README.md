@@ -64,4 +64,4 @@ src/
 3. Make your changes and commit them.
 4. Push to your fork and submit a pull request.
 
-> *Produced by DAEM | 2023*
+> Produced by DAEM | 2023
