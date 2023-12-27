@@ -16,7 +16,7 @@ export default function Page() {
             className="h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-b-black border-l-transparent border-r-transparent"
           />
           <p className={`${lusitana.className} antialiased text-xl text-gray-800 md:text-3xl md:leading-normal`}>
-            <strong>Welcome to DAEMFX.</strong> This is my financial dashboard project, brought to you by... 
+            <strong>Welcome to AcmeFX.</strong> This is my financial dashboard project, brought to you by... 
             <a href="https://github.com/DAEM007" target="_blank" className="text-blue-500">DAEM | 2023</a>.
           </p>
           <Link
